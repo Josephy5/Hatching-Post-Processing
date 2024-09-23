@@ -34,6 +34,7 @@ Inverted Hatching Color
 
 ## Credits/Assets used
 The code is based on IronStar Interactive's image effect shader. [GitHub Link](https://github.com/BattleDawnNZ/Image-Effects-with-Shadergraph) or [YouTube Video Link](https://www.youtube.com/watch?v=FpvJAG6R99k&t=6s)
+<br>
 Texture Array script by Dmitry Denisov. [GitHub Link](https://github.com/DmtDenisov/Texture-Array-Unity). It comes included with the project but you don't have to use or depend on it, you can 
 make and use your own (or other ones). I only include this one as its the one that is most convenient for me and the one that I reference in the effect's documentation.
 
